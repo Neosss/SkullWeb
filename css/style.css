@@ -1,0 +1,66 @@
+html{
+	height: 100%;
+}
+
+body {
+	background: #333; color: #555;
+	height: 100%;
+}
+
+h1{
+	margin:  0 0 25px;
+	overflow: hidden;
+	padding: 20px;
+	background-color: #f9dbdb; text-align: center; border: 1px solid #e9b3b3; font-family: 'Montserrat', sans-serif;
+}
+
+.imagen{
+	padding: 1px;
+	text-align: center;
+}
+
+.texto1{
+	height: 560px;
+	margin: 0 5px 0px;
+    overflow:hidden;
+    padding:10px;
+    -webkit-border-radius: 10px;
+        border-radius: 10px;
+	background-color: #d8ecf7;
+	border:1px solid #afcde3;
+	font: 24px "Arial", sans-serif;
+	margin-top: 15px;
+	
+}
+
+.link{
+	text-align: center;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: red;
+}
+
+.logo2{
+	padding: 1px;
+	height: 256px;
+	width: 256px;
+	text-align: center;
+}
+
+.logo{
+	text-align: center;
+
+}
+
+.email{
+	color: red;
+}
+
+.email:hover{
+	color: orange;
+}
